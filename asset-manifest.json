@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://detj.github.io/csb-uvhp4k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://detj.github.io/csb-uvhp4k/static/js/main.bc41fdff.chunk.js",
+    "main.js.map": "https://detj.github.io/csb-uvhp4k/static/js/main.bc41fdff.chunk.js.map",
+    "runtime-main.js": "https://detj.github.io/csb-uvhp4k/static/js/runtime-main.43a6b993.js",
+    "runtime-main.js.map": "https://detj.github.io/csb-uvhp4k/static/js/runtime-main.43a6b993.js.map",
+    "static/js/2.0b3d0044.chunk.js": "https://detj.github.io/csb-uvhp4k/static/js/2.0b3d0044.chunk.js",
+    "static/js/2.0b3d0044.chunk.js.map": "https://detj.github.io/csb-uvhp4k/static/js/2.0b3d0044.chunk.js.map",
+    "index.html": "https://detj.github.io/csb-uvhp4k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://detj.github.io/csb-uvhp4k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0b3d0044.chunk.js.LICENSE.txt": "https://detj.github.io/csb-uvhp4k/static/js/2.0b3d0044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a6b993.js",
+    "static/js/2.0b3d0044.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.bc41fdff.chunk.js"
+  ]
+}
